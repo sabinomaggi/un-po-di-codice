@@ -1,0 +1,182 @@
+x
+---
+layout: post
+title: "Il CNR è anche questo: un po' di codice"
+author: Sabino Maggi
+date: 2020-12-01 06:00
+categories:
+- scienza
+tags:
+- awk
+- github
+- latex
+- linux
+- macos
+-r
+- rstudio desktop
+- terminale
+- windows
+- xkcd
+comments: true
+published: true
+---
+![](https://imgs.xkcd.com/comics/good_code.png "XKCD, Good code")
+- _XKCD, [Good code](https://xkcd.com/844/)_.
+Per concludere nel miglior modo possibile questa serie di articoli (qui la
+[prima](https://melabit.wordpress.com/2020/10/25/il-cnr-e-anche-questo-concorsi-senza-
+frontiere/) e la [seconda](https://melabit.wordpress.com/2020/11/08/il-cnr-e-anche-questo-
+concorsi-in-latex/) parte), cosa ci può essere di meglio di un po' di codice?
+---
+layout: post
+title: "Il CNR è anche questo: concorsi in LaTeX"
+author: Sabino Maggi
+date: 2020-11-08 06:00
+categories:
+- scienza
+tags:
+- cnr
+- concorso
+- git
+- latex
+-r
+- ricercatori
+- terminale
+- word
+comments: true
+1
+
+published: true
+---
+Nella [puntata precedente](https://melabit.wordpress.com/2020/10/25/il-cnr-e-anche-
+questo-concorsi-senza-frontiere/) ho raccontato della mia corsa contro il tempo dell'estate,
+una prova assurda come quelle di [Giochi senza
+frontiere](https://curiosando708090.altervista.org/giochi-senza-frontiere-19651982-
+19881999/), ma senza allegria.
+---
+layout: post
+title: "Il CNR è anche questo: concorsi senza frontiere"
+author: Sabino Maggi
+date: 2020-10-25 06:00
+categories:
+- scienza
+tags:
+- cnr
+- concorso
+- curriculum
+- fattispecie
+- ricercatori
+- word
+comments: true
+published: true
+---
+https://www.youtube.com/watch?v=T8el-AHcNFs
+Lo so, è da un mese che non pubblico niente sul blog. Non che mi manchino gli spunti,
+tutt'altro, la lista di cose da scrivere si allunga ogni giorno di più. Ma è dall'inizio di agosto
+che mi trovo ad affrontare una scadenza importante dopo l'altra, e appena ne supero una
+eccone un'altra ancora più pressante. Dopo giornate come quelle delle ultime settimane, è
+difficile mettersi di nuovo alla scrivania la sera per aggiornare il blog.
+---
+layout: post
+title: "Tech porn"
+author: Sabino Maggi
+date: 2020-09-16 06:00
+categories:
+- scienza
+tags:
+- apple
+2
+
+- laboratorio
+- nasa
+comments: true
+published: true
+---
+Da ragazzo, oltre che su Playboy, sbavavo su immagini come questa, e sognavo di poter
+usare un giorno uno di questi strumenti complicatissimi.
+![](https://melabit.files.wordpress.com/2020/09/liebergot-8210-640x426-1.jpg)
+-- _Foto [ArsTechnica](https://arstechnica.com/science/2012/10/going-boldly-what-it-was-
+like-to-be-an-apollo-flight-controller/)._
+---
+layout: post
+title: "Il (mio) gioco dell'estate"
+author: Sabino Maggi
+date: 2020-08-21 06:00
+categories:
+- software
+tags:
+- colorzzle
+- ios
+- ipad
+- monument valley
+comments: true
+published: true
+---
+Non sono un gran giocatore, però mi piace giocare con l'iPad la sera prima di dormire
+oppure in vacanza in estate. Niente di complicato, i giochi con troppe regole mi annoiano,
+ancora di più lo fanno i _platform_, dove devi ripetere sempre gli stessi movimenti nella
+sequenza corretta.
+---
+layout: post
+title: "SSD o dischi meccanici? Perché non tutti e due? (seconda parte)"
+author: Sabino Maggi
+date: 2020-08-14 06:00
+categories:
+- hardware
+tags:
+- apple
+- hard disk
+- imac
+3
+
+- imac pro
+- mac mini
+- mac pro
+- macbook
+- macos
+- pc
+- ssd
+- windows 10
+comments: true
+published: true
+---
+![](https://melabit.files.wordpress.com/2020/08/edgar-chaparro-d9uqsghl2ug-unsplash.jpg)
+-- _Foto di [Edgar Chaparro](https://unsplash.com/@echaparro) su
+[Unsplash](https://unsplash.com)._
+Dopo aver mostrato nella [prima parte
+dell'articolo](https://melabit.wordpress.com/2020/08/05/ssd-o-dischi-meccanici-perche-
+non-tutti-e-due-prima-parte/) perché è conveniente utilizzare un disco SSD relativamente
+piccolo dove installare il sistema operativo e le applicazioni, accoppiato ad un hard-disk
+meccanico (HDD) molto più capiente riservato ai documenti,[^1] in questa seconda parte
+presenterò alcuni scenari pratici di applicazione di questa tecnica.
+---
+layout: post
+title: "SSD o dischi meccanici? Perché non tutti e due? (prima parte)"
+author: Sabino Maggi
+date: 2020-08-05 06:00
+categories:
+- hardware
+tags:
+- apple
+- hard disk
+- imac
+- linux
+- macos
+- mac pro
+- pc
+- ssd
+- windows
+comments: true
+published: true
+---
+![](https://melabit.files.wordpress.com/2020/08/laura-ockel-qox9ksvpqcm-unsplash.jpg)
+4
+
+-- _Foto di [Laura Ockel](https://unsplash.com/@viazavier) su
+[Unsplash](https://unsplash.com)._
+Ci hanno messo qualche anno di troppo, ma ormai i dischi SSD sono diventati le normali
+unità di avvio dei computer moderni, complice il calo di prezzi degli ultimi anni. Solo Apple
+si ostina ad offrire dei lenti dischi meccanici da appena 5400 giri al minuto sui suoi iMac
+più economici, ma probabilmente smetterà (finalmente!) di farlo alla prossima iterazione
+del modello, che dovrebbe arrivare molto presto (infatti l'[iMac è stato aggiornato proprio
+ieri](https://www.apple.com/it/shop/buy-mac/imac)).
+5
